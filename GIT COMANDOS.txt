@@ -1,0 +1,18 @@
+# VErificar quais arquivos foram modificados
+git status
+
+# Adicionar todos os arquivos módificados
+git add .
+
+
+# Criar o commit
+git commit -a -n -m "Mensagem do commit vai aqui"
+
+# Enviar o commit ao repositório
+git push origin master
+
+# Baixar do repositório
+git pull
+
+# Colnar repositório
+git clone htpps...
