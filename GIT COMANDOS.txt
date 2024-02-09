@@ -4,11 +4,12 @@ git status
 # Adicionar todos os arquivos módificados
 git add .
 
-
 # Criar o commit
 git commit -a -n -m "Mensagem do commit vai aqui"
 
 # Enviar o commit ao repositório
+git push 
+ou
 git push origin master
 
 # Baixar do repositório
